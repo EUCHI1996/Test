@@ -3,6 +3,7 @@
 
 int main (int argc, char *argv[]) {
   long int sum = 0, i, n = 42;
+  long int sum = 0, i, n;
   for (i = 1; i <= n; i++) {
     sum += i;
   }
